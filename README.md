@@ -85,6 +85,20 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
 <h5>İlan Şikayet Edilebilir</h5>
 <p>Eğer kullanıcı, bir gönderiyi uygunsuz veya kurallara aykırı buluyorsa, gönderi ile ilgili şikayette bulunabilir. Şikayet sistemi, kullanıcıların uygulamayı güvenli ve düzenli bir şekilde kullanmalarını sağlar.</p>
 
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/86299b38-0845-4c56-a9f3-1ba71174e545" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/dce0ea3a-8d8f-420a-84b1-5ad99de70c71" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/fc6c949e-96a8-4a2f-b651-06f4b55c7a3f" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/5967f1f5-651d-4dbe-8e55-a6dd4c527b9c" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+</div>
+
+
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/68e07fb5-b7de-4667-9fcb-d6670ccfccdb" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/8f008d05-f4f8-4b2d-9024-18d78fd7a1c7" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/63c2dd49-b9a0-4a5c-ba7d-1be436c696b1" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/40e64783-11c1-4704-880a-a67b1a803be8" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
+</div>
 
 
 
