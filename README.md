@@ -71,6 +71,10 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
     <img src="https://github.com/user-attachments/assets/1b6da205-a593-472d-bfbb-a72c309dc335" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/bcc19040-7c5c-4ac2-873c-3655888af441" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/2c65d395-e060-4ad6-9ee4-6f1453a200b0" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/86299b38-0845-4c56-a9f3-1ba71174e545" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/dce0ea3a-8d8f-420a-84b1-5ad99de70c71" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/fc6c949e-96a8-4a2f-b651-06f4b55c7a3f" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/5967f1f5-651d-4dbe-8e55-a6dd4c527b9c" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
 <h5>Gönderi Favorilerine Eklenip Çıkarılabilir</h5>
@@ -83,22 +87,28 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
 <p>Gönderi sahibi ile ilgili bilgilere kullanıcı profil sayfası üzerinden ulaşılabilir. Bu sayfada, kullanıcıya ait diğer ilanlar da görüntülenebilir. Böylece, kullanıcılar tek bir gönderi yerine, ilgi duydukları kişiye ait tüm ilanlara ulaşma fırsatı bulurlar.</p>
 
 <h5>İlan Şikayet Edilebilir</h5>
-<p>Eğer kullanıcı, bir gönderiyi uygunsuz veya kurallara aykırı buluyorsa, gönderi ile ilgili şikayette bulunabilir. Şikayet sistemi, kullanıcıların uygulamayı güvenli ve düzenli bir şekilde kullanmalarını sağlar.</p>
+<p>Eğer kullanıcı, bir gönderiyi uygunsuz veya kurallara aykırı buluyorsa, gönderi ile ilgili şikayette bulunabilir. Kullanıcı aynı gönderi için en fazla 1 şikayette bulunabiilir. Şikayetleri için kullanıcılara bilgilendirme maili gönderilir. Şikayet sayısı belli bir düzeyi geçtikten sonra da yöneticiye şikayet edilen gönderinin bilgileri ve şikayet eden kişiler gönderilir.</p>
 
-<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/86299b38-0845-4c56-a9f3-1ba71174e545" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/dce0ea3a-8d8f-420a-84b1-5ad99de70c71" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/fc6c949e-96a8-4a2f-b651-06f4b55c7a3f" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/5967f1f5-651d-4dbe-8e55-a6dd4c527b9c" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
-</div>
-
+Konum butonu ile kullanıclar gönderi konumu rotasyonunu açabilir.
+Mesaj butonu ile de gönderi ssahibiyle iletişime geçebilir. Mesajlaşma gönderi ve kullanıcı eşleşmesi ile oluşturlur yani aynı kullanıcının farklı gönderileri ile olan mesajlaşma farklı sohbet kanallarından yapılır. 
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/68e07fb5-b7de-4667-9fcb-d6670ccfccdb" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/8f008d05-f4f8-4b2d-9024-18d78fd7a1c7" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/63c2dd49-b9a0-4a5c-ba7d-1be436c696b1" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/40e64783-11c1-4704-880a-a67b1a803be8" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/f158dd80-74b1-49d5-8082-5a15c919954e" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
 </div>
+
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/60d2292c-356b-4534-8a91-521944ca5c49" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/d7fc592e-f471-4244-b4d6-facf5fcafdb2" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/8b99aa58-d000-4d97-b676-6d833abd8a64" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/32c84dbd-d40d-4ba4-a3c1-7200f70ef56e" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+</div>
+
+Mesajlaşma sırasında kişinin çevrimiçi, yazıyor, son görülme bilgileri görüntülenebilir. Mesajın teslim edilme görülme durumu ve mesajlaşma saatleri görüntülenbilir. Hatalı gönderilen bir mesaj silinerek her iki taraftan da silinmesi sağlanır. Kullanıcı profilne tıklandığında gönderi sahibinin profilne veya sohbet edilen göndersine ulaşılabilir. 
+
 
 
 
