@@ -96,7 +96,7 @@ Mesaj butonu ile de gönderi ssahibiyle iletişime geçebilir. Mesajlaşma gönd
     <img src="https://github.com/user-attachments/assets/68e07fb5-b7de-4667-9fcb-d6670ccfccdb" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/8f008d05-f4f8-4b2d-9024-18d78fd7a1c7" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/63c2dd49-b9a0-4a5c-ba7d-1be436c696b1" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/40e64783-11c1-4704-880a-a67b1a803be8" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/c7800bf6-f86d-4b0f-9f99-c7153282e8f7" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/f158dd80-74b1-49d5-8082-5a15c919954e" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
@@ -107,7 +107,64 @@ Mesaj butonu ile de gönderi ssahibiyle iletişime geçebilir. Mesajlaşma gönd
     <img src="https://github.com/user-attachments/assets/32c84dbd-d40d-4ba4-a3c1-7200f70ef56e" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
-Mesajlaşma sırasında kişinin çevrimiçi, yazıyor, son görülme bilgileri görüntülenebilir. Mesajın teslim edilme görülme durumu ve mesajlaşma saatleri görüntülenbilir. Hatalı gönderilen bir mesaj silinerek her iki taraftan da silinmesi sağlanır. Kullanıcı profilne tıklandığında gönderi sahibinin profilne veya sohbet edilen göndersine ulaşılabilir. 
+Burada kullanıcı adına göre arama yaparak filtrleme yapabilir.
+Mesajlaşma sırasında kişinin çevrimiçi, yazıyor, son görülme bilgileri görüntülenebilir. Mesajın teslim edilme görülme durumu ve mesajlaşma saatleri görüntülenbilir. Hatalı gönderilen bir mesaj silinerek her iki taraftan da silinmesi sağlanır. Kullanıcı profilne tıklandığında gönderi sahibine yazan kullanıcıya seçim kutusu açılarak gönderi sahibinin profilini veya gönderisini görüntüleyebilir, gönderi sahibi ise direkt olarak sadece kullanıcı profilini görüntüleyebilir. 
+
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/00390716-59fb-445d-baf8-72f67d5cd800" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/16ddf4a2-a1be-4075-af22-d24182ea9c7b" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/83887562-7da0-46e8-9ad0-4a008824fdf8" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/49991cca-e7e5-4c0d-aa2c-90ca47bdbade" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+</div>
+
+Aynı kullanının farklı gönderileri için farklı sohbetler oluşturlur.
+Kulanıcının çevrimiçi olup veya çevrımdışı olduğu görüntülebeilir. 
+Kullanıclar arasında son mesajlar ve son mesaj saatleri görüntülenebilir.
+Teslim edilen ancak okunmayan yani görüldü durumunda olmayan mesaj sayısı görüntülenebilir.
+Mevcut kullanıcı sohbeti sil dediğinde diğer kişi ile olan sohbet kanalı bu kullanıcıdan silinir. Karşı taraf da sohbeti sil derse ona ait olan sohbet kanalı da silinir ardından ikisi arasındaki tüm mesajlar silinir.
+
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/aad8c3cb-d487-4220-8d04-14353aa3b4ff" alt="Resim 9" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/7369a797-9826-4a10-819b-ea955fca3932" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/93485190-dcb9-42a8-9e22-00355b25af21" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/9938dc4a-a42b-494e-8a5c-ddb69011abbe" alt="Resim 8" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/c95267d2-d061-4c37-a95a-a4a67b2a5b15" alt="Resim 6" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/ffc45a9e-62e7-44c5-a86b-844989b5087f" alt="Resim 5" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/9e7ca2b3-257d-4db8-9a17-1fd3cf9725fa" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/073c601b-c68a-422d-88c4-539f56140379" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/0956cfe9-3ff2-4917-9c12-e4a1e62ddad0" alt="Resim 7" style="width: 190px; height: auto; margin: 10px;">
+</div>
+
+Gönderiler resimli veya resimsiz olarak paylaşılabilir.
+Resim eklemek için diyalog ekranından Kamera veya Galeri seçilebilir. Galeri için depolama izni istenir. Kamera için kamera ve depolama izni istenir çünkü resimler kaydedilir. Galeriden seçilen resimler çoklu veya tek tek seçilebilir. En fazla 10 resim yüklenebilir. eklenen resimler kaldıralbilir tam ekranda görüntülenip slider içinde gezilebilir.
+çıkış yapmak istendiğinde eğer gönderi paylaşılmamış ile uyarı diyaloğu açılır, gönderi paylaşılmış ise de direkt oalrak bir önceki sayfaya geçilir.
+İlan paylaşmak için bütün metin alanları doldurulmak zorundadır.
+Konum girişi içim tıklandığında uygulama içinde map açılır ve konum izni istenir. Konum izni verilerek veya verilmeyerek konum seçilebilir. Arama yolu ile konum belirnebilir veya konum butonuna tıklandığında eğer konum bilgisi açık ise mevcut konumu seçer, açık değil ise konumu açmanızı hatırlatır. Konum haritadan manuel oalrak dokunarak da seçilebilir. Seçilen konum allta gözükür.
+
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/8d5c0da5-2966-440e-b411-159f9eab2f9d" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/69acb12c-1fc9-474d-bf9e-140876157e79" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/8c507443-5ba1-4c78-bc2d-0a8d6fb4ea81" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/067d52ee-a770-46d5-9b54-71e23f985e67" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+</div>
+
+Kullanıcı kendi gönderilerini anasayfasında görüntüleyemez bunun yerine gönderilerim kısmında görebilir.
+Kendi gönderilerini favorilere ekleyemez ancak gönderilerini silebilir veya düzenleyebilir. Kullanıc kendi gönderisinde mesaj gönder, kullanıcı profili ve şiaket et bölümlerini de göremez. Konum bilgisini görebilir ve kontrol edebilir.
+Diğer kullanıclara ait kaydettiği gönderilere de bu ekranda ulaşır burada hepsi toplu olarak görebilir favorilerden kaldırabilir.
+Gönderiler ve kaydedilenler ksımında gönderileri başlık,kategori,açıklama bilgiisne göre fitreleybilir.
+
+
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/5647c7f2-6e34-4abd-8547-2a776e18f322" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/a4292d6c-c6af-48ff-921b-40a0aa0ec733" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/50723d69-acab-45b1-bb2d-9a77cdcf5a6a" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/1bab8de0-3019-4aeb-b523-7a1e5bf7dd54" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+</div>
+
+
+
+
+
 
 
 
