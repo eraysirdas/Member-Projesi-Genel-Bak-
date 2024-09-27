@@ -241,7 +241,7 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
 </div>
 
 <h5>Kullanıcı Doğrulama ve Profil Güncelleme</h5>
-<p>Kullanıcının gönderi paylaşabilmesi için öncelikle telefon doğrulaması yapılması gerekmektedir. Bu doğrulama süreci için kullanıcının profil bilgilerinin eksiksiz bir şekilde doldurulması önemlidir. Kullanıcı, profil resmi olarak galeriden veya kameradan bir fotoğraf seçip yükleyebilir. Ayrıca, kullanıcı bilgilerini güncelleyebilir.</p>
+<p>Kullanıcının gönderi paylaşabilmesi için öncelikle telefon doğrulaması yapılması gerekmektedir. Burada girdiği telefon numarasını kullanan olup olmadığı kontrolü de yapılmaktadır. Doğrulama süreci için kullanıcının profil bilgilerinin eksiksiz bir şekilde doldurulması önemlidir. Kullanıcı, profil resmi olarak galeriden veya kameradan bir fotoğraf seçip yükleyebilir. Ayrıca, kullanıcı bilgilerini güncelleyebilir.</p>
 
 <p>Telefon numarasını girmek için kullanıcı, öncelikle ülke kodunu seçmelidir; varsayılan olarak Türkiye (TR) kodu kullanılmaktadır. Kullanıcı uygulamaya ilk kaydolduğunda telefon numarasını girmelidir ve ardından gönderi paylaşabilmek için doğrulama işlemi gerçekleştirmelidir. Eğer kullanıcı, doğrulama işlemi sonrasında telefon numarasını değiştirmek isterse, yeni numarasını da doğrulaması gerekecektir.</p>
 
