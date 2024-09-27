@@ -45,6 +45,7 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
     <img src="https://github.com/user-attachments/assets/524c5ce1-91f4-4295-be43-ae780f75d97f" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/f7d6897b-337e-4dd0-852e-f83e84f7f367" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/5b910adc-6f2b-4f5d-9dd4-8b82dd2961c3" alt="Resim 5" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/2e04838d-5ab7-472f-bd62-42b80c079219" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
 <h5>1. İlk Giriş Ekranı</h5>
@@ -65,6 +66,8 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
 <h5>6. Gönderi Oluşturma</h5>
 <p>Yeni bir gönderi oluşturmak isteyen kullanıcıların telefon numaralarını doğrulamaları gerekmektedir. Telefon numarasını doğrulamayn kullanıclar sadece mevcut gönderilerle iletişime geçebilirler.</p>
 
+Uygulama içnde internet erişimi gittiğinde internet erişimi gelene kadar progress dialog açılır. Ekrana dokunma ve geri tuşu işlevsiz kılınmıştır.
+
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/c12a4b5a-8afa-4921-a28f-fac118c1c254" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
@@ -75,6 +78,9 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
     <img src="https://github.com/user-attachments/assets/dce0ea3a-8d8f-420a-84b1-5ad99de70c71" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/fc6c949e-96a8-4a2f-b651-06f4b55c7a3f" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/5967f1f5-651d-4dbe-8e55-a6dd4c527b9c" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/8773e4fc-a185-4720-b26e-7686c03c75fa" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/5dd44975-c369-4f5f-ac17-64dc53874e82" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/9a9f2560-1122-4571-a91a-3ffba52d0bb0" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
 <h5>Gönderi Favorilerine Eklenip Çıkarılabilir</h5>
@@ -89,8 +95,13 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
 <h5>İlan Şikayet Edilebilir</h5>
 <p>Eğer kullanıcı, bir gönderiyi uygunsuz veya kurallara aykırı buluyorsa, gönderi ile ilgili şikayette bulunabilir. Kullanıcı aynı gönderi için en fazla 1 şikayette bulunabiilir. Şikayetleri için kullanıcılara bilgilendirme maili gönderilir. Şikayet sayısı belli bir düzeyi geçtikten sonra da yöneticiye şikayet edilen gönderinin bilgileri ve şikayet eden kişiler gönderilir.</p>
 
+Kullanıcya gönderilen mail bilgiendirme amaçlıdır.
+Admine gönderilen mail şiaket eden kişilerin ve şikayet edilen gönderiyi kapsamaktadır.
+
 Konum butonu ile kullanıclar gönderi konumu rotasyonunu açabilir.
 Mesaj butonu ile de gönderi ssahibiyle iletişime geçebilir. Mesajlaşma gönderi ve kullanıcı eşleşmesi ile oluşturlur yani aynı kullanıcının farklı gönderileri ile olan mesajlaşma farklı sohbet kanallarından yapılır. 
+
+
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/68e07fb5-b7de-4667-9fcb-d6670ccfccdb" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
@@ -159,7 +170,63 @@ Gönderiler ve kaydedilenler ksımında gönderileri başlık,kategori,açıklam
     <img src="https://github.com/user-attachments/assets/a4292d6c-c6af-48ff-921b-40a0aa0ec733" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/50723d69-acab-45b1-bb2d-9a77cdcf5a6a" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/1bab8de0-3019-4aeb-b523-7a1e5bf7dd54" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/aa8ec979-eda5-4c54-8682-13c5b050af18" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/a53865e5-7a4a-49a8-b7b2-9b267ed18116" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
+
+Gönderi Düzenleme
+kullanıcı 1. seanryoda databsede oaln gönderi resimlerini silip güncelleyebilir.
+2. senaryoda önce databasede olan gönderi resimlerini silip sonra yeni resimler ekleyerek güncelleyebilir.
+3. senaryoda önce yeni resimler ekleyip sonra databasede olan resimleri silebilir. 
+4. senaroyda databse  resimlerini silmeyerek yeni resimler ekleyerek güncelleyebilir.
+5. senaryo da resimlerleri ilk 4. senaryoda istediğini yapıp metin kısımlarını değiştirebilir veya sadece metin ksımını değiştirip güncelleyebilir.
+Kullanıcı databseden gelen ve yeni eklenen resimleri tam ekranda sliderda görüntüleybilir. 
+Bu adımda yanlıkla gerı tusuna bastııgnda uyarı diyalogu acılır.
+
+Gönderi Silme
+
+Kullanıcı gönderisi silmek istediğinde uyarı ekranında onaylamsı gerekir.
+Gönderisini sildiğinde anlık olarak diğer kullanıcılar için de ulaşılamaz olur. Sildiği gönderisini favorilere ekleyen tüm kullanıcalrdan kaldırlır. Göndersi için olan sohbet her iki taraf içinde tamamen silinir.
+
+
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/a0475390-7e21-4536-b6b3-c5ef86453661" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/22241c0c-bcbf-4a39-8949-ba2e8af6c9cd" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/bbc60607-4440-4b5b-a901-1022967c20f0" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/8e344de6-38c0-47d8-8162-b3f8cef1e2c0" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/addae71b-c980-4d0f-888f-9bc2b4824d4f" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+</div>
+
+Kullanıcının gönderi paylaşması için telefon doğrulamsı gerekir bu doğrulama için de profil bilgileri eksiksiz doldurulmalıdır.
+Kullanıcı resmini galeriden veya kamerdan seçebilir ve yükleyebilir.
+Kullanıcı bilgilerini güncelleyebilir.
+Telefon numarası için ülke kodunu seçmesi gerekir varsayılan oalrak tr dir. Uygulamaya ilk kaydolduğunda telefon numarası bilgisini girmesi gerekir ardından da gönderi paylaşamk için doğrulama yapması gerekir. Doğrulama sonrası telefon numarasını değiştirmek isterse yeni numarasını da doğrulamsı gerekir.
+Profil resmi ve kullanıcı adı gönderilerde, ve sohbette gözüktüğü için güncellendiği zaman databsede de guncellenerek buralrda doğru gozukmesı saglanır.
+
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/86ec542a-97e5-43da-9110-ce8374cd513a" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/d28d6398-eb6c-4301-8a7f-3a9afcefeab1" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/329d318f-076c-47cc-9e00-7b5f1f620947" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/091ef92f-cada-4dae-aac7-7437373a7ef0" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/55269718-9425-4b68-8887-e895b408c806" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+</div>
+
+Uygulama içinden şifreyi değiştrimek istediğinde eski şifresini doğrulayark yeni şifre belirlenebilir.
+Telefon doğrulamsı için telefona sms gönderilir. 6 haneli kod girildikten sonra eğer doğru ise doğrulama başarılı şekilde tamamlanır. Kod gelmemesi duurmunda yeni kod talep edileibilir. telefon doğrulandıktan sonra telefon doğrula bölümü gizlenir. telefon değişikliği durumunda yine görünür olur.
+
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/86ec542a-97e5-43da-9110-ce8374cd513a" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/f9046a57-9303-4f71-a8f8-fddc949a44b6" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/3d40e2ef-e13c-468b-909b-b5acb5f7e2e8" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/b0774f87-49c4-43af-b396-bf712a654161" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/1c092707-723e-4ba2-8da0-c9e2accf29e9" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+</div>
+
+Hesaptan çıkış yapılmak istendiğinde uyarı diyaloğu açılır onayaldığı zaman da giriş yap ekranına erişilir. Çıkış yapılmadığı sürece giriş ekranına yönlendirilmeden direkt oalrak uygulama başlar.
+HEsabı silmek istediğinde eğer google ile giriş yapmış ise google hesabını doğrulamsı gerekir, e posta ile kayıt olmus ise şifresini doğru bir sekilde tekrar girmesi ve uyarı dıylogunu onaylması gerekir.
+kullanıcı hesabını sildiğinde tüm gönderileri silinir, gönderilerini favorilere ekleyen her kullanıcdan bu göndeiler kaldrılır. Tüm gönderileri için olan sohbetleri hem kendisininden hem de iletişim kurduğu kişiden silinir. Ve giriş yap ekranına yönlendirlir.
+
+
 
 
 
