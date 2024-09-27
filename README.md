@@ -120,17 +120,17 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://github.com/user-attachments/assets/68e07fb5-b7de-4667-9fcb-d6670ccfccdb" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
-        <img src="https://github.com/user-attachments/assets/8f008d05-f4f8-4b2d-9024-18d78fd7a1c7" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
-        <img src="https://github.com/user-attachments/assets/63c2dd49-b9a0-4a5c-ba7d-1be436c696b1" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
-        <img src="https://github.com/user-attachments/assets/c7800bf6-f86d-4b0f-9f99-c7153282e8f7" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
-        <img src="https://github.com/user-attachments/assets/f158dd80-74b1-49d5-8082-5a15c919954e" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
+        <img src="https://github.com/user-attachments/assets/68e07fb5-b7de-4667-9fcb-d6670ccfccdb" alt="Resim 4" style="width: 180px; height: auto; margin: 10px;">
+        <img src="https://github.com/user-attachments/assets/8f008d05-f4f8-4b2d-9024-18d78fd7a1c7" alt="Resim 3" style="width: 180px; height: auto; margin: 10px;">
+        <img src="https://github.com/user-attachments/assets/63c2dd49-b9a0-4a5c-ba7d-1be436c696b1" alt="Resim 2" style="width: 180px; height: auto; margin: 10px;">
+        <img src="https://github.com/user-attachments/assets/c7800bf6-f86d-4b0f-9f99-c7153282e8f7" alt="Resim 1" style="width: 180px; height: auto; margin: 10px;">
+        <img src="https://github.com/user-attachments/assets/f158dd80-74b1-49d5-8082-5a15c919954e" alt="Resim 1" style="width: 180px; height: auto; margin: 10px;">
     </div>
     <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
-        <img src="https://github.com/user-attachments/assets/60d2292c-356b-4534-8a91-521944ca5c49" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
-        <img src="https://github.com/user-attachments/assets/d7fc592e-f471-4244-b4d6-facf5fcafdb2" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
-        <img src="https://github.com/user-attachments/assets/8b99aa58-d000-4d97-b676-6d833abd8a64" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
-        <img src="https://github.com/user-attachments/assets/32c84dbd-d40d-4ba4-a3c1-7200f70ef56e" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+        <img src="https://github.com/user-attachments/assets/60d2292c-356b-4534-8a91-521944ca5c49" alt="Resim 4" style="width: 180px; height: auto; margin: 10px;">
+        <img src="https://github.com/user-attachments/assets/d7fc592e-f471-4244-b4d6-facf5fcafdb2" alt="Resim 3" style="width: 180px; height: auto; margin: 10px;">
+        <img src="https://github.com/user-attachments/assets/8b99aa58-d000-4d97-b676-6d833abd8a64" alt="Resim 2" style="width: 180px; height: auto; margin: 10px;">
+        <img src="https://github.com/user-attachments/assets/32c84dbd-d40d-4ba4-a3c1-7200f70ef56e" alt="Resim 2" style="width: 180px; height: auto; margin: 10px;">
     </div>
 </div>
 
@@ -271,18 +271,29 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
 
 <p>Kullanıcı hesabını sildiğinde, tüm gönderileri silinir. Ayrıca, bu gönderileri favorilerine ekleyen tüm kullanıcılardan da gönderiler kaldırılır. Kullanıcının tüm gönderileri için olan sohbetler, hem kendisinden hem de iletişim kurduğu kişiden silinir ve kullanıcı giriş yap ekranına yönlendirilir.</p>
 
+<table>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/68e07fb5-b7de-4667-9fcb-d6670ccfccdb" alt="Resim 4" style="width: 190px; height: auto;"></td>
+        <td><img src="https://github.com/user-attachments/assets/8f008d05-f4f8-4b2d-9024-18d78fd7a1c7" alt="Resim 3" style="width: 190px; height: auto;"></td>
+        <td><img src="https://github.com/user-attachments/assets/63c2dd49-b9a0-4a5c-ba7d-1be436c696b1" alt="Resim 2" style="width: 190px; height: auto;"></td>
+        <td><img src="https://github.com/user-attachments/assets/c7800bf6-f86d-4b0f-9f99-c7153282e8f7" alt="Resim 1" style="width: 190px; height: auto;"></td>
+        <td><img src="https://github.com/user-attachments/assets/f158dd80-74b1-49d5-8082-5a15c919954e" alt="Resim 1" style="width: 190px; height: auto;"></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/60d2292c-356b-4534-8a91-521944ca5c49" alt="Resim 4" width="180" height: auto;></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/d7fc592e-f471-4244-b4d6-facf5fcafdb2" alt="Resim 3" width="180" height: auto;></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/8b99aa58-d000-4d97-b676-6d833abd8a64" alt="Resim 2" width="180" height: auto;></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/32c84dbd-d40d-4ba4-a3c1-7200f70ef56e" alt="Resim 2" width="180" height: auto;></td>
+    </tr>
+</table>
 
-<!-- İlk Grup Resimler -->
-| Resim 4 | Resim 3 | Resim 2 | Resim 1 | Resim 1 |
-|---------|---------|---------|---------|---------|
-| ![Resim 4](https://github.com/user-attachments/assets/68e07fb5-b7de-4667-9fcb-d6670ccfccdb) | ![Resim 3](https://github.com/user-attachments/assets/8f008d05-f4f8-4b2d-9024-18d78fd7a1c7) | ![Resim 2](https://github.com/user-attachments/assets/63c2dd49-b9a0-4a5c-ba7d-1be436c696b1) | ![Resim 1](https://github.com/user-attachments/assets/c7800bf6-f86d-4b0f-9f99-c7153282e8f7) | ![Resim 1](https://github.com/user-attachments/assets/f158dd80-74b1-49d5-8082-5a15c919954e) |
 
-<br>
-
-<!-- İkinci Grup Resimler -->
-| Resim 4 | Resim 3 | Resim 2 | Resim 2 |
-|---------|---------|---------|---------|
-| ![Resim 4](https://github.com/user-attachments/assets/60d2292c-356b-4534-8a91-521944ca5c49) | ![Resim 3](https://github.com/user-attachments/assets/d7fc592e-f471-4244-b4d6-facf5fcafdb2) | ![Resim 2](https://github.com/user-attachments/assets/8b99aa58-d000-4d97-b676-6d833abd8a64) | ![Resim 2](https://github.com/user-attachments/assets/32c84dbd-d40d-4ba4-a3c1-7200f70ef56e) |
 
 
 
