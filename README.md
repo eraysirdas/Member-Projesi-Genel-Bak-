@@ -19,10 +19,10 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
 </div>
 
 
-<h4>1. Splash Screen</h4>
+<h4>Splash Screen</h4>
 <p>Uygulama açıldığında kullanıcıyı karşılayan bir açılış ekranı (splash screen) bulunmaktadır. Bu ekran, uygulamanın yüklenmesini ve kullanıcıya hoş bir karşılama sunar.</p>
 
-<h4>2. Giriş Yap Ekranı</h4>
+<h4>Giriş Yap Ekranı</h4>
 <p>Kullanıcılar, uygulamaya iki farklı yöntemle giriş yapabilirler:</p>
 <ul>
     <li><strong>Hesapla Giriş:</strong> Daha önce oluşturulmuş bir hesap ile e-posta ve şifre kullanarak giriş yapılabilir.</li>
@@ -30,7 +30,7 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
 </ul>
 <p><strong>Hesap Doğrulama:</strong> Eğer kullanıcı, uygulamaya giriş yapmak için oluşturduğu e-posta hesabını doğrulamazsa, uygulamaya giriş yapması mümkün değildir. Doğrulama e-postası, kayıt işlemi sonrasında otomatik olarak gönderilir.</p>
 
-<h4>3. Şifremi Unuttum</h4>
+<h4>Şifremi Unuttum</h4>
 <p>Kullanıcılar, "Şifremi Unuttum" seçeneğine tıklayarak e-posta adreslerini girerek şifre sıfırlama linki alabilirler. Bu link aracılığıyla, şifrelerini yenileyebilirler.</p>
 
 <h4>4. Kayıt Ol</h4>
@@ -38,6 +38,10 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
 
 <h5>Hesap Doğrulama Bağlantısı:</h5>
 <p>Kayıt ol butonuna bastıktan sonra, kullanıcıya hesabını doğrulaması için bir bağlantı içeren e-posta gönderilir. Kullanıcı, bu bağlantıyı tıklayarak hesabını aktif hale getirmelidir.</p>
+
+<h5>Tema Yönetimi</h5>
+<p>Uygulama, açık ve karanlık modlara uyumlu olacak şekilde tasarlanmıştır. Kullanıcılar, uygulama içindeki tema değişikliklerini kesintisiz olarak yapabilirler. Tema geçişleri sırasında uygulamanın stabilitesi korunur ve çökme sorunları engellenir.</p>
+
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/f687e3c5-be81-4c26-91a1-142c5faf6906" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
@@ -48,25 +52,26 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
     <img src="https://github.com/user-attachments/assets/2e04838d-5ab7-472f-bd62-42b80c079219" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
-<h5>1. İlk Giriş Ekranı</h5>
+<h5>İlk Giriş Ekranı</h5>
 <p>Kullanıcılar uygulamaya ilk giriş yaptıklarında, kullanıcı dostu bir arayüzle karşılaşırlar. Ana ekranda, gönderileri konum tabanlı olarak filtreleme imkânı sunulmaktadır.</p>
 
-<h5>2. Konum Tabanlı Filtreleme</h5>
+<h5>Konum Tabanlı Filtreleme</h5>
 <p>Kullanıcılar, 60 km bir alan içerisinde yer alan gönderileri konum bilgilerini ekleyerek filtreleyebilirler. Bu sayede, yakın çevredeki ilgilerini çeken gönderilere daha kolay ulaşabilirler.</p>
 
-<h5>3. Gönderi Arama ve Filtreleme</h5>
+<h5>Gönderi Arama ve Filtreleme</h5>
 <p>Gönderiler başlık, açıklama ve kategori bilgilerine göre aranıp filtrelenebilir. Bu, kullanıcıların aradıkları gönderilere daha hızlı ve kolay bir şekilde ulaşmasını sağlar.</p>
 
-<h5>4. İlginizi Çeken Gönderiler</h5>
+<h5>İlginizi Çeken Gönderiler</h5>
 <p>Kullanıcılar, beğendikleri ve ilgilerini çeken gönderileri kaydedebilir veya kaydettikleri gönderileri istedikleri zaman geri alabilirler. Gönderileri daha sonra incelemek isteyen kullanıcılar kaydedilenler ekranından bunu yapabilirler</p>
 
-<h5>5. Detaylı Gönderi Görüntüleme</h5>
+<h5>Detaylı Gönderi Görüntüleme</h5>
 <p>Bir gönderinin üzerine tıklandığında, o gönderiyle ilgili daha ayrıntılı bilgilere ulaşılabilir.</p>
 
-<h5>6. Gönderi Oluşturma</h5>
+<h5>Gönderi Oluşturma</h5>
 <p>Yeni bir gönderi oluşturmak isteyen kullanıcıların telefon numaralarını doğrulamaları gerekmektedir. Telefon numarasını doğrulamayn kullanıclar sadece mevcut gönderilerle iletişime geçebilirler.</p>
 
-Uygulama içnde internet erişimi gittiğinde internet erişimi gelene kadar progress dialog açılır. Ekrana dokunma ve geri tuşu işlevsiz kılınmıştır.
+<h5>İnternet Bağlantısı Yönetimi</h5>
+<p></p>Uygulama, internet erişimi kaybolduğunda kullanıcı deneyimini iyileştirmek için bir ProgressDialog açar. Bağlantı geri gelene kadar bu dialog ekranda kalır ve kullanıcıların ekrana dokunma ya da geri tuşuna basma gibi işlevleri devre dışı bırakılır.</p>
 
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
@@ -97,12 +102,20 @@ Uygulama içnde internet erişimi gittiğinde internet erişimi gelene kadar pro
 <h5>İlan Şikayet Edilebilir</h5>
 <p>Eğer kullanıcı, bir gönderiyi uygunsuz veya kurallara aykırı buluyorsa, gönderi ile ilgili şikayette bulunabilir. Kullanıcı aynı gönderi için en fazla 1 şikayette bulunabiilir. Şikayetleri için kullanıcılara bilgilendirme maili gönderilir. Şikayet sayısı belli bir düzeyi geçtikten sonra da yöneticiye şikayet edilen gönderinin bilgileri ve şikayet eden kişiler gönderilir.</p>
 
-Kullanıcya gönderilen mail bilgiendirme amaçlıdır.
-Admine gönderilen mail şiaket eden kişilerin ve şikayet edilen gönderiyi kapsamaktadır.
+<h5>Mail Gönderim İşlemleri</h5>
+<p>Kullanıcılara gönderilen e-postalar, bilgi verme amaçlıdır. Admin paneline gönderilen e-postalar ise şikayet eden kişilerin bilgilerini ve şikayet edilen gönderiyi kapsamaktadır.</p>
 
-Konum butonu ile kullanıclar gönderi konumu rotasyonunu açabilir.
-Mesaj butonu ile de gönderi ssahibiyle iletişime geçebilir. Mesajlaşma gönderi ve kullanıcı eşleşmesi ile oluşturlur yani aynı kullanıcının farklı gönderileri ile olan mesajlaşma farklı sohbet kanallarından yapılır. 
+<h5>Konum ve Mesajlaşma Butonları</h5>
+<p>Kullanıcılar, konum butonunu kullanarak gönderi konumunun rotasyonunu açabilirler. Mesaj butonu sayesinde ise gönderi sahibiyle iletişime geçebilirler. Mesajlaşma, gönderi ve kullanıcı eşleşmesi ile oluşturulmaktadır. Yani, aynı kullanıcının farklı gönderileri için yapılan mesajlaşma, farklı sohbet kanallarında gerçekleştirilir.</p>
 
+<h5>Veri Yükleme ve Yenileme</h5>
+
+<p>Her sayfa ilk açıldığında, veriler Shimmer efekti ile yüklenir, böylece kullanıcıya görsel olarak yüklenme işlemi hakkında bilgi verilir. Daha sonrasında, kullanıcı Swipe to Refresh hareketiyle sayfayı yenileyerek Shimmer efektini yeniden tetikleyebilir ve verileri güncelleyebilir.</p>
+
+<h5>Mesajlar ve İlanlar Bölümü</h5>
+<p>Mesajlar kısmında hiç mesaj bulunmadığında kullanıcıya bilgilendirici bir metin gösterilir. Aynı şekilde, ilanlar kısmında da bu durum geçerlidir. Kullanıcı Swipe to Refresh yaptığında bu bilgilendirici metin görünmez ve yeni mesaj veya ilan oluşturulduğunda da bu metin gizlenir.</p>
+
+<p>Gönderi oluşturma butonu, kullanıcıların telefon numaralarını doğrulamaları gerektiği için yalnızca doğrulanmış telefon numarası olan kullanıcılar tarafından kullanılabilir.</p>
 
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
@@ -120,8 +133,11 @@ Mesaj butonu ile de gönderi ssahibiyle iletişime geçebilir. Mesajlaşma gönd
     <img src="https://github.com/user-attachments/assets/32c84dbd-d40d-4ba4-a3c1-7200f70ef56e" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
-Burada kullanıcı adına göre arama yaparak filtrleme yapabilir.
-Mesajlaşma sırasında kişinin çevrimiçi, yazıyor, son görülme bilgileri görüntülenebilir. Mesajın teslim edilme görülme durumu ve mesajlaşma saatleri görüntülenbilir. Hatalı gönderilen bir mesaj silinerek her iki taraftan da silinmesi sağlanır. Kullanıcı profilne tıklandığında gönderi sahibine yazan kullanıcıya seçim kutusu açılarak gönderi sahibinin profilini veya gönderisini görüntüleyebilir, gönderi sahibi ise direkt olarak sadece kullanıcı profilini görüntüleyebilir. 
+<h5>Kullanıcı Filtreleme ve Mesajlaşma Bilgileri</h5>
+<p>Kullanıcılar, arama yaparak isim veya kullanıcı adına göre filtreleme işlemi gerçekleştirebilirler. Mesajlaşma sırasında, kişinin çevrimiçi durumu, "yazıyor" ifadesi ve son görülme bilgileri görüntülenebilir. Ayrıca, mesajların teslim edilme durumu ve görülme saatleri de kullanıcıya sunulmaktadır.</p>
+
+<p>Hatalı bir şekilde gönderilen bir mesaj silinerek, bu mesaj her iki taraftan da kaldırılabilir. Kullanıcı profilinin üzerine tıklandığında, gönderi sahibine yazan kullanıcıya bir seçim kutusu açılır; bu sayede kullanıcı, gönderi sahibinin profilini veya gönderisini görüntüleyebilir. Gönderi sahibi ise yalnızca kendi profilini görüntüleyebilir.</p>
+
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/9ba59d90-d008-4fa7-a494-c77671cacac8" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
@@ -130,15 +146,12 @@ Mesajlaşma sırasında kişinin çevrimiçi, yazıyor, son görülme bilgileri 
     <img src="https://github.com/user-attachments/assets/c0dbee00-bc35-47a5-8035-540b52a58c1b" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
+<h5>Mesajlaşma ve Sohbet Yönetimi</h5>
 
+<p>Aynı kullanıcının farklı gönderileri için ayrı sohbet kanalları oluşturulmaktadır. Kullanıcının çevrimiçi veya çevrimdışı durumu görüntülenebilir. Kullanıcılar arasında son mesajlar ve bu mesajların gönderim saatleri de görülebilir.</p>
 
+<p>Teslim edilmiş ancak okunmamış (yani "görüldü" durumu olmayan) mesaj sayısı kullanıcıya sunulmaktadır. Mevcut kullanıcı sohbeti sil dediğinde, diğer kişi ile olan sohbet kanalı bu kullanıcıdan kaldırılır. Karşı taraf da sohbeti sil derse, ona ait olan sohbet kanalı da silinir ve ardından ikisi arasındaki tüm mesajlar da ortadan kaldırılır.</p>
 
-
-Aynı kullanının farklı gönderileri için farklı sohbetler oluşturlur.
-Kulanıcının çevrimiçi olup veya çevrımdışı olduğu görüntülebeilir. 
-Kullanıclar arasında son mesajlar ve son mesaj saatleri görüntülenebilir.
-Teslim edilen ancak okunmayan yani görüldü durumunda olmayan mesaj sayısı görüntülenebilir.
-Mevcut kullanıcı sohbeti sil dediğinde diğer kişi ile olan sohbet kanalı bu kullanıcıdan silinir. Karşı taraf da sohbeti sil derse ona ait olan sohbet kanalı da silinir ardından ikisi arasındaki tüm mesajlar silinir.
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/aad8c3cb-d487-4220-8d04-14353aa3b4ff" alt="Resim 9" style="width: 190px; height: auto; margin: 10px;">
@@ -152,11 +165,18 @@ Mevcut kullanıcı sohbeti sil dediğinde diğer kişi ile olan sohbet kanalı b
     <img src="https://github.com/user-attachments/assets/0956cfe9-3ff2-4917-9c12-e4a1e62ddad0" alt="Resim 7" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
-Gönderiler resimli veya resimsiz olarak paylaşılabilir.
-Resim eklemek için diyalog ekranından Kamera veya Galeri seçilebilir. Galeri için depolama izni istenir. Kamera için kamera ve depolama izni istenir çünkü resimler kaydedilir. Galeriden seçilen resimler çoklu veya tek tek seçilebilir. En fazla 10 resim yüklenebilir. eklenen resimler kaldıralbilir tam ekranda görüntülenip slider içinde gezilebilir.
-çıkış yapmak istendiğinde eğer gönderi paylaşılmamış ile uyarı diyaloğu açılır, gönderi paylaşılmış ise de direkt oalrak bir önceki sayfaya geçilir.
-İlan paylaşmak için bütün metin alanları doldurulmak zorundadır.
-Konum girişi içim tıklandığında uygulama içinde map açılır ve konum izni istenir. Konum izni verilerek veya verilmeyerek konum seçilebilir. Arama yolu ile konum belirnebilir veya konum butonuna tıklandığında eğer konum bilgisi açık ise mevcut konumu seçer, açık değil ise konumu açmanızı hatırlatır. Konum haritadan manuel oalrak dokunarak da seçilebilir. Seçilen konum allta gözükür.
+<h5>Gönderi Paylaşımı</h5>
+
+<p>Gönderiler, resimli veya resimsiz olarak paylaşılabilir. Resim eklemek için diyalog ekranından "Kamera" veya "Galeri" seçeneği tercih edilebilir. Galeri için depolama izni istenirken, kamera için hem kamera hem de depolama izni talep edilmektedir; çünkü resimler kaydedilir. Galeriden seçilen resimler, çoklu veya tek tek seçilebilir ve en fazla 10 resim yüklenebilir.</p>
+
+<p>Eklenen resimler, kaldırılabilir, tam ekranda görüntülenebilir ve slider içinde gezilebilir.</p>
+
+<p>Çıkış yapmak istendiğinde, eğer gönderi paylaşılmamışsa bir uyarı diyalogu açılır. Gönderi paylaşılmış ise, direkt olarak bir önceki sayfaya geçilir.</p>
+
+<p>İlan paylaşmak için tüm metin alanlarının doldurulması gerekmektedir.</p>
+
+<p>Konum girişi için tıklandığında uygulama içinde bir harita açılır ve konum izni istenir. Kullanıcı konum iznini vererek veya vermeyerek konum seçebilir. Arama yolu ile konum belirlenebilir veya konum butonuna tıklandığında, eğer konum bilgisi açık ise mevcut konum seçilir. Eğer konum bilgisi kapalı ise, konumu açmanızı hatırlatır. Konum, haritadan manuel olarak dokunarak da seçilebilir ve seçilen konum altında görüntülenir.</p>
+
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/8d5c0da5-2966-440e-b411-159f9eab2f9d" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
@@ -165,10 +185,15 @@ Konum girişi içim tıklandığında uygulama içinde map açılır ve konum iz
     <img src="https://github.com/user-attachments/assets/067d52ee-a770-46d5-9b54-71e23f985e67" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
-Kullanıcı kendi gönderilerini anasayfasında görüntüleyemez bunun yerine gönderilerim kısmında görebilir.
-Kendi gönderilerini favorilere ekleyemez ancak gönderilerini silebilir veya düzenleyebilir. Kullanıc kendi gönderisinde mesaj gönder, kullanıcı profili ve şiaket et bölümlerini de göremez. Konum bilgisini görebilir ve kontrol edebilir.
-Diğer kullanıclara ait kaydettiği gönderilere de bu ekranda ulaşır burada hepsi toplu olarak görebilir favorilerden kaldırabilir.
-Gönderiler ve kaydedilenler ksımında gönderileri başlık,kategori,açıklama bilgiisne göre fitreleybilir.
+<h5>Kullanıcı Gönderi Yönetimi</h5>
+
+<p>Kullanıcı, kendi gönderilerini anasayfasında görüntüleyemez; bunun yerine "Gönderilerim" kısmında görebilir. Kendi gönderilerini favorilere ekleyemez, ancak gönderilerini silebilir veya düzenleyebilir.</p>
+
+<p>Kullanıcı, kendi gönderisinde "Mesaj Gönder", "Kullanıcı Profili" ve "Şikayet Et" bölümlerini göremez; yalnızca konum bilgisini kontrol edebilir ve görüntüleyebilir.</p>
+
+<p>Diğer kullanıcılara ait kaydettiği gönderilere de bu ekrandan ulaşabilir ve hepsini toplu olarak görebilir. Kullanıcı, burada favorilerden kaldırma işlemi gerçekleştirebilir.</p>
+
+<p>Gönderiler ve kaydedilenler kısmında, gönderileri başlık, kategori ve açıklama bilgisine göre filtreleyebilir.</p>
 
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
@@ -180,19 +205,24 @@ Gönderiler ve kaydedilenler ksımında gönderileri başlık,kategori,açıklam
     <img src="https://github.com/user-attachments/assets/a53865e5-7a4a-49a8-b7b2-9b267ed18116" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
-Gönderi Düzenleme
-kullanıcı 1. seanryoda databsede oaln gönderi resimlerini silip güncelleyebilir.
-2. senaryoda önce databasede olan gönderi resimlerini silip sonra yeni resimler ekleyerek güncelleyebilir.
-3. senaryoda önce yeni resimler ekleyip sonra databasede olan resimleri silebilir. 
-4. senaroyda databse  resimlerini silmeyerek yeni resimler ekleyerek güncelleyebilir.
-5. senaryo da resimlerleri ilk 4. senaryoda istediğini yapıp metin kısımlarını değiştirebilir veya sadece metin ksımını değiştirip güncelleyebilir.
-Kullanıcı databseden gelen ve yeni eklenen resimleri tam ekranda sliderda görüntüleybilir. 
-Bu adımda yanlıkla gerı tusuna bastııgnda uyarı diyalogu acılır.
+<h5>Gönderi Düzenleme</h5>
 
-Gönderi Silme
+<p>Kullanıcı, aşağıdaki senaryolar çerçevesinde gönderi düzenlemesi yapabilir:</p>
 
-Kullanıcı gönderisi silmek istediğinde uyarı ekranında onaylamsı gerekir.
-Gönderisini sildiğinde anlık olarak diğer kullanıcılar için de ulaşılamaz olur. Sildiği gönderisini favorilere ekleyen tüm kullanıcalrdan kaldırlır. Göndersi için olan sohbet her iki taraf içinde tamamen silinir.
+1. <p>**Senaryo 1:** Veritabanında bulunan gönderi resimlerini silip yeni resim eklemeden güncelleyebilir.</p>
+2. <p>**Senaryo 2:** Önce veritabanındaki mevcut gönderi resimlerini silip, ardından yeni resimler ekleyerek güncelleme yapabilir.</p>
+3. <p>**Senaryo 3:** Önce yeni resimler ekleyip, ardından veritabanında bulunan resimleri silebilir.</p>
+4. <p>**Senaryo 4:** Veritabanındaki resimleri silmeden, yalnızca yeni resimler ekleyerek güncelleyebilir.</p>
+5. <p>**Senaryo 5:** İlk dört senaryodan birini uygulayarak metin kısımlarını değiştirebilir veya yalnızca metin kısımlarını güncelleyebilir.</p>
+
+<p>Kullanıcı, veritabanından gelen resimleri ve yeni eklenen resimleri tam ekranda slider üzerinden görüntüleyebilir. Bu adımda yanlışlıkla geri tuşuna basarsa, bir uyarı diyaloğu açılır.</p>
+
+<h5>Gönderi Silme</h5>
+
+<p>Kullanıcı, gönderisini silmek istediğinde bir onay diyaloğu ile karşılaşır. Onayladıktan sonra, gönderi anlık olarak diğer kullanıcılar için de ulaşılamaz hale gelir. Sildiği gönderisini favorilerine eklemiş olan tüm kullanıcılardan gönderi kaldırılır.</p>
+
+<p>Ayrıca, gönderiye ait olan sohbetler her iki taraf için de tamamen silinir.</p>
+
 
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
@@ -203,11 +233,12 @@ Gönderisini sildiğinde anlık olarak diğer kullanıcılar için de ulaşılam
     <img src="https://github.com/user-attachments/assets/addae71b-c980-4d0f-888f-9bc2b4824d4f" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
-Kullanıcının gönderi paylaşması için telefon doğrulamsı gerekir bu doğrulama için de profil bilgileri eksiksiz doldurulmalıdır.
-Kullanıcı resmini galeriden veya kamerdan seçebilir ve yükleyebilir.
-Kullanıcı bilgilerini güncelleyebilir.
-Telefon numarası için ülke kodunu seçmesi gerekir varsayılan oalrak tr dir. Uygulamaya ilk kaydolduğunda telefon numarası bilgisini girmesi gerekir ardından da gönderi paylaşamk için doğrulama yapması gerekir. Doğrulama sonrası telefon numarasını değiştirmek isterse yeni numarasını da doğrulamsı gerekir.
-Profil resmi ve kullanıcı adı gönderilerde, ve sohbette gözüktüğü için güncellendiği zaman databsede de guncellenerek buralrda doğru gozukmesı saglanır.
+<h5>Kullanıcı Doğrulama ve Profil Güncelleme</h5>
+<p>Kullanıcının gönderi paylaşabilmesi için öncelikle telefon doğrulaması yapılması gerekmektedir. Bu doğrulama süreci için kullanıcının profil bilgilerinin eksiksiz bir şekilde doldurulması önemlidir. Kullanıcı, profil resmi olarak galeriden veya kameradan bir fotoğraf seçip yükleyebilir. Ayrıca, kullanıcı bilgilerini güncelleyebilir.</p>
+
+<p>Telefon numarasını girmek için kullanıcı, öncelikle ülke kodunu seçmelidir; varsayılan olarak Türkiye (TR) kodu kullanılmaktadır. Kullanıcı uygulamaya ilk kaydolduğunda telefon numarasını girmelidir ve ardından gönderi paylaşabilmek için doğrulama işlemi gerçekleştirmelidir. Eğer kullanıcı, doğrulama işlemi sonrasında telefon numarasını değiştirmek isterse, yeni numarasını da doğrulaması gerekecektir.</p>
+
+<p>Profil resmi ve kullanıcı adı, gönderilerde ve sohbetlerde göründüğü için, bu bilgiler güncellendiğinde veritabanında da güncellenerek doğru bir şekilde yansıtılması sağlanır.</p>
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/86ec542a-97e5-43da-9110-ce8374cd513a" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
@@ -217,8 +248,10 @@ Profil resmi ve kullanıcı adı gönderilerde, ve sohbette gözüktüğü için
     <img src="https://github.com/user-attachments/assets/55269718-9425-4b68-8887-e895b408c806" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
-Uygulama içinden şifreyi değiştrimek istediğinde eski şifresini doğrulayark yeni şifre belirlenebilir.
-Telefon doğrulamsı için telefona sms gönderilir. 6 haneli kod girildikten sonra eğer doğru ise doğrulama başarılı şekilde tamamlanır. Kod gelmemesi duurmunda yeni kod talep edileibilir. telefon doğrulandıktan sonra telefon doğrula bölümü gizlenir. telefon değişikliği durumunda yine görünür olur.
+<h5>Şifre Değişikliği ve Telefon Doğrulama</h5>
+<p>Kullanıcı, uygulama içinden şifresini değiştirmek istediğinde, önce eski şifresini doğruladıktan sonra yeni bir şifre belirleyebilir. Telefon doğrulaması için kullanıcıya bir SMS gönderilir. Kullanıcı, 6 haneli kodu girdikten sonra, eğer kod doğruysa doğrulama başarılı bir şekilde tamamlanır. Kodun gelmemesi durumunda, kullanıcı yeni bir kod talep edebilir.</p>
+
+<p>Telefon doğrulandıktan sonra telefon doğrulama bölümü gizlenir. Ancak, telefon değişikliği durumunda bu bölüm tekrar görünür hale gelir.</p>
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/86ec542a-97e5-43da-9110-ce8374cd513a" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
@@ -228,10 +261,13 @@ Telefon doğrulamsı için telefona sms gönderilir. 6 haneli kod girildikten so
     <img src="https://github.com/user-attachments/assets/1c092707-723e-4ba2-8da0-c9e2accf29e9" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
 
-Hesaptan çıkış yapılmak istendiğinde uyarı diyaloğu açılır onayaldığı zaman da giriş yap ekranına erişilir. Çıkış yapılmadığı sürece giriş ekranına yönlendirilmeden direkt oalrak uygulama başlar.
-HEsabı silmek istediğinde eğer google ile giriş yapmış ise google hesabını doğrulamsı gerekir, e posta ile kayıt olmus ise şifresini doğru bir sekilde tekrar girmesi ve uyarı dıylogunu onaylması gerekir.
-kullanıcı hesabını sildiğinde tüm gönderileri silinir, gönderilerini favorilere ekleyen her kullanıcdan bu göndeiler kaldrılır. Tüm gönderileri için olan sohbetleri hem kendisininden hem de iletişim kurduğu kişiden silinir. Ve giriş yap ekranına yönlendirlir.
+<h5>Hesaptan Çıkış ve Silme İşlemleri</h5>
 
+<p>Kullanıcı hesabından çıkış yapmak istediğinde, bir onay diyalogu açılır. Kullanıcı onayladığında, giriş yap ekranına yönlendirilir. Eğer kullanıcı çıkış yapmadığı sürece, uygulama direkt olarak başlar ve giriş ekranına yönlendirilmez.</p>
+
+<p>Kullanıcı hesabını silmek istediğinde, eğer Google ile giriş yapmışsa, Google hesabını doğrulaması gerekmektedir. E-posta ile kayıt olmuşsa, şifresini doğru bir şekilde tekrar girmesi ve uyarı diyalogunu onaylaması gerekir.</p> 
+
+<p>Kullanıcı hesabını sildiğinde, tüm gönderileri silinir. Ayrıca, bu gönderileri favorilerine ekleyen tüm kullanıcılardan da gönderiler kaldırılır. Kullanıcının tüm gönderileri için olan sohbetler, hem kendisinden hem de iletişim kurduğu kişiden silinir ve kullanıcı giriş yap ekranına yönlendirilir.</p>
 
 
 
