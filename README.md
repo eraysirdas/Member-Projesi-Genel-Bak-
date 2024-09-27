@@ -79,9 +79,11 @@ Uygulama içnde internet erişimi gittiğinde internet erişimi gelene kadar pro
     <img src="https://github.com/user-attachments/assets/fc6c949e-96a8-4a2f-b651-06f4b55c7a3f" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/5967f1f5-651d-4dbe-8e55-a6dd4c527b9c" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/8773e4fc-a185-4720-b26e-7686c03c75fa" alt="Resim 1" style="width: 190px; height: auto; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/5dd44975-c369-4f5f-ac17-64dc53874e82" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/9a9f2560-1122-4571-a91a-3ffba52d0bb0" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/6c7a8782-efd3-4768-b96b-51fdd8f65851" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/79e2e25c-53f5-4f09-9df2-548134d4369d" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
+
+
 
 <h5>Gönderi Favorilerine Eklenip Çıkarılabilir</h5>
 <p>Kullanıcılar, bu ekran üzerinden de gönderileri favorilerine ekleyip çıkarabilir.</p>
@@ -122,11 +124,15 @@ Burada kullanıcı adına göre arama yaparak filtrleme yapabilir.
 Mesajlaşma sırasında kişinin çevrimiçi, yazıyor, son görülme bilgileri görüntülenebilir. Mesajın teslim edilme görülme durumu ve mesajlaşma saatleri görüntülenbilir. Hatalı gönderilen bir mesaj silinerek her iki taraftan da silinmesi sağlanır. Kullanıcı profilne tıklandığında gönderi sahibine yazan kullanıcıya seçim kutusu açılarak gönderi sahibinin profilini veya gönderisini görüntüleyebilir, gönderi sahibi ise direkt olarak sadece kullanıcı profilini görüntüleyebilir. 
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/00390716-59fb-445d-baf8-72f67d5cd800" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/16ddf4a2-a1be-4075-af22-d24182ea9c7b" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/83887562-7da0-46e8-9ad0-4a008824fdf8" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/49991cca-e7e5-4c0d-aa2c-90ca47bdbade" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/9ba59d90-d008-4fa7-a494-c77671cacac8" alt="Resim 4" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/3c383c11-c8d7-42d3-9d3e-7b29be78a991" alt="Resim 3" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/d6bb7c29-36af-4c5f-94e5-32f129c5bdfe" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/c0dbee00-bc35-47a5-8035-540b52a58c1b" alt="Resim 2" style="width: 190px; height: auto; margin: 10px;">
 </div>
+
+
+
+
 
 Aynı kullanının farklı gönderileri için farklı sohbetler oluşturlur.
 Kulanıcının çevrimiçi olup veya çevrımdışı olduğu görüntülebeilir. 
