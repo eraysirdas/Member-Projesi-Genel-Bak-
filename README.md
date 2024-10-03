@@ -13,12 +13,19 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
 [<img src="https://github.com/user-attachments/assets/aebbf18c-8b9c-4a97-8a7f-116a608a31a2" style="width: 190px; height: auto;">](https://www.youtube.com/watch?v=rjGhmbD6DQA)
 [<img src="https://github.com/user-attachments/assets/aebbf18c-8b9c-4a97-8a7f-116a608a31a2" style="width: 190px; height: auto;">](https://www.youtube.com/shorts/8atucz_mukQ)
 
+<table>
+    <tr>
+        <td>https://github.com/user-attachments/assets/91b0cde9-8f5d-44bc-a1bf-ebb66fc135f3</td>
+        <td>https://github.com/user-attachments/assets/3afdc971-5243-4d2c-a0f3-6bb0de2ce56d</td>
+    </tr>
+</table>
 
 
 
 
-https://github.com/user-attachments/assets/91b0cde9-8f5d-44bc-a1bf-ebb66fc135f3
-https://github.com/user-attachments/assets/3afdc971-5243-4d2c-a0f3-6bb0de2ce56d
+
+
+
 
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
