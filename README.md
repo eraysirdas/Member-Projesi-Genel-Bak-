@@ -1,11 +1,22 @@
 # MemberProject
 Adını Member verdiğim bu proje, Java dili ve Firebase kullanılarak geliştirilmiş, Android tabanlı bir mobil uygulamanın tasarımını ve geliştirilmesini kapsamaktadır.
 
-Uygulama, kullanıcıların çeşitli aktivitelerde ilan yayınlamasını, diğer kullanıcılarla mesajlaşmasını ve takımlar oluşturabilmesini sağlamaktadır. Kullanıcılar, ilanları başlığına, kategorisine ve açıklamasına göre filtreleyerek arayabilir; mesajlaşma özelliği ile iletişime geçebilir, ilan konumuna Google Maps entegrasyonu sayesinde ulaşabilir, paylaşabilir veya ilgisini çeken ilanları kaydedebilir.
+Uygulama, kullanıcıların çeşitli aktivitelerde ilan yayınlamasını, diğer kullanıcılarla mesajlaşmasını ve etkinlikler oluşturabilmesini sağlamaktadır. Kullanıcılar, ilanları başlığına, kategorisine ve açıklamasına göre filtreleyerek arayabilir; mesajlaşma özelliği ile iletişime geçebilir, ilan konumuna Google Maps entegrasyonu sayesinde ulaşabilir, paylaşabilir veya ilgisini çeken ilanları kaydedebilir.
 
 Uygulama, internet erişimine sahip kullanıcılar için öncelikle kayıt olup giriş yapmayı gerektirir. Ardından kullanıcılar, aktivite ilanları paylaşabilir, güncelleyebilir, mevcut ilanları ve kendi ilanlarını görüntüleyebilir. Ayrıca ilanları kaydedebilir ve ilan sahipleriyle iletişime geçebilirler. Kullanıcılar, ilan sahipleri ve kendi hesap bilgilerini de görüntüleyebilirler.
 
 Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başlangıç ve bitiş tarihi, konum bilgilerini doldurmalıdırlar. Resim ekleyerek ya da resimsiz olarak ilanlarını paylaşabilir ve diğer kullanıcıların görmesini sağlayabilirler. Mevcut ilanları kategori ve başlık bilgilerine göre aratarak filtreleyebilirler.
+
+
+
+[<img src="https://github.com/user-attachments/assets/aebbf18c-8b9c-4a97-8a7f-116a608a31a2" style="width: 190px; height: auto;">](https://www.youtube.com/watch?v=NTw7jyb_oU4)
+[<img src="https://github.com/user-attachments/assets/aebbf18c-8b9c-4a97-8a7f-116a608a31a2" style="width: 190px; height: auto;">](https://www.youtube.com/watch?v=rjGhmbD6DQA)
+[<img src="https://github.com/user-attachments/assets/aebbf18c-8b9c-4a97-8a7f-116a608a31a2" style="width: 190px; height: auto;">](https://www.youtube.com/shorts/8atucz_mukQ)
+
+
+
+
+
 
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
@@ -275,6 +286,8 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
 <p>Kullanıcı hesabını silmek istediğinde, eğer Google ile giriş yapmışsa, Google hesabını doğrulaması gerekmektedir. E-posta ile kayıt olmuşsa, şifresini doğru bir şekilde tekrar girmesi ve uyarı diyalogunu onaylaması gerekir.</p> 
 
 <p>Kullanıcı hesabını sildiğinde, tüm gönderileri silinir. Ayrıca, bu gönderileri favorilerine ekleyen tüm kullanıcılardan da gönderiler kaldırılır. Kullanıcının tüm gönderileri için olan sohbetler, hem kendisinden hem de iletişim kurduğu kişiden silinir ve kullanıcı giriş yap ekranına yönlendirilir.</p>
+
+
 
 
 
