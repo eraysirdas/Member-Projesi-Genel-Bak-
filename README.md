@@ -7,22 +7,11 @@ Uygulama, internet erişimine sahip kullanıcılar için öncelikle kayıt olup 
 
 Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başlangıç ve bitiş tarihi, konum bilgilerini doldurmalıdırlar. Resim ekleyerek ya da resimsiz olarak ilanlarını paylaşabilir ve diğer kullanıcıların görmesini sağlayabilirler. Mevcut ilanları kategori ve başlık bilgilerine göre aratarak filtreleyebilirler.
 
+https://github.com/user-attachments/assets/54d72b58-1242-47e7-b4f4-41433957dcb0
 
+https://github.com/user-attachments/assets/ec997727-f0ea-4904-9b85-ded0597bfc27
 
-[<img src="https://github.com/user-attachments/assets/aebbf18c-8b9c-4a97-8a7f-116a608a31a2" style="width: 190px; height: auto;">](https://www.youtube.com/watch?v=NTw7jyb_oU4)
-[<img src="https://github.com/user-attachments/assets/aebbf18c-8b9c-4a97-8a7f-116a608a31a2" style="width: 190px; height: auto;">](https://www.youtube.com/watch?v=rjGhmbD6DQA)
-[<img src="https://github.com/user-attachments/assets/aebbf18c-8b9c-4a97-8a7f-116a608a31a2" style="width: 190px; height: auto;">](https://www.youtube.com/shorts/8atucz_mukQ)
-
-<table>
-    <tr>
-        <td>https://github.com/user-attachments/assets/91b0cde9-8f5d-44bc-a1bf-ebb66fc135f3</td>
-        <td>https://github.com/user-attachments/assets/3afdc971-5243-4d2c-a0f3-6bb0de2ce56d</td>
-    </tr>
-</table>
-
-
-
-
+https://github.com/user-attachments/assets/0eafca3d-1b1a-4e70-8951-bf35ac76f2e7
 
 
 
