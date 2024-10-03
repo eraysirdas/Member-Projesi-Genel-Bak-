@@ -17,6 +17,8 @@ Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başla
 
 
 
+https://github.com/user-attachments/assets/91b0cde9-8f5d-44bc-a1bf-ebb66fc135f3
+https://github.com/user-attachments/assets/3afdc971-5243-4d2c-a0f3-6bb0de2ce56d
 
 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
