@@ -1,4 +1,4 @@
-# MemberProject
+# Member
 Adını Member verdiğim bu proje, Java dili ve Firebase kullanılarak geliştirilmiş, Android tabanlı bir mobil uygulamanın tasarımını ve geliştirilmesini kapsamaktadır.
 
 Uygulama, kullanıcıların çeşitli aktivitelerde ilan yayınlamasını, diğer kullanıcılarla mesajlaşmasını ve etkinlikler oluşturabilmesini sağlamaktadır. Kullanıcılar, ilanları başlığına, kategorisine ve açıklamasına göre filtreleyerek arayabilir; mesajlaşma özelliği ile iletişime geçebilir, ilan konumuna Google Maps entegrasyonu sayesinde ulaşabilir, paylaşabilir veya ilgisini çeken ilanları kaydedebilir.
@@ -13,7 +13,38 @@ https://github.com/user-attachments/assets/ec997727-f0ea-4904-9b85-ded0597bfc27
 
 https://github.com/user-attachments/assets/0eafca3d-1b1a-4e70-8951-bf35ac76f2e7
 
+# Kullanılan Teknolojiler
 
+- Glide
+- CircleImageView
+- Shimmer 
+- SwipeRefreshLayout
+- Firebase
+- CountryCodePicker
+- Google Sign-In
+- Google Maps SDK
+- Google Places API
+- JavaMail API
+- Java AsyncTask
+- Model-View-Intent
+- BroadcastReceiver & ConnectivityManager
+- Handler
+- View Binding
+- Data Binding
+- EmailAuthProvider
+- Shared Preferences
+- Intent
+- LayoutInflater
+- ActivityResult
+- ExifInterface
+- Fused Location Provider API
+- Lifecycle
+- RecyclerView
+- Fragment
+- ViewPager2
+- TabLayout
+- Filter
+- Android SDK
 
 
 
