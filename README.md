@@ -7,7 +7,9 @@ Uygulama, internet erişimine sahip kullanıcılar için öncelikle kayıt olup 
 
 Kullanıcılar, ilan paylaşma ekranında kategori, başlık, açıklama, başlangıç ve bitiş tarihi, konum bilgilerini doldurmalıdırlar. Resim ekleyerek ya da resimsiz olarak ilanlarını paylaşabilir ve diğer kullanıcıların görmesini sağlayabilirler. Mevcut ilanları kategori ve başlık bilgilerine göre aratarak filtreleyebilirler.
 
-https://github.com/user-attachments/assets/54d72b58-1242-47e7-b4f4-41433957dcb0
+
+
+https://github.com/user-attachments/assets/76de8c9a-d1d4-43bd-8296-337e834351d1
 
 https://github.com/user-attachments/assets/ec997727-f0ea-4904-9b85-ded0597bfc27
 
